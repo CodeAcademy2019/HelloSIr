@@ -1,6 +1,6 @@
 Vibhore 		9
-Yash			5
+Yash			7
 Ajay			5
-Gurrehmat		3
+Gurrehmat		4
 Hemant			1
 Pulkit			1
